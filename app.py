@@ -59,23 +59,3 @@ with col_right:
     else:
         st.info("ℹ️ **Incident Action Plan: Standard Triage**")
         st.markdown("* Inspect network packets payload tags.\n* Confirm signature patterns with threat intelligence.")
-```[cite: 1]
-
----
-
-### Part B: Streamlit Cloud Par Website Live Karein
-1. Ab [share.streamlit.io](https://share.streamlit.io/) par jayein[cite: 1].
-2. **"Sign in with GitHub"** par click karke apne GitHub account ko connect kijiye[cite: 1].
-3. Login karne ke baad, **"Deploy an app"** (ya "New app") button par click karein[cite: 1].
-4. Ek simple form aayega, wahan ye select karein:
-   * **Repository:** `spector-soc-dashboard`[cite: 1]
-   * **Branch:** `main` (ya `master`)
-   * **Main file path:** `app.py`[cite: 1]
-5. Niche diye gaye **"Deploy!"** button par click kar dein[cite: 1].
-
----
-
-### 🎉 Result Kya Hoga?
-Streamlit background mein 1-2 minute lagayega aapki website build karne mein. Uske baad aapki website **poore internet par live ho jayegi** aur aapko ek unique public URL mil jayega (jaise: `[https://your-name.streamlit.app/](https://your-name.streamlit.app/)`)[cite: 1]!
-
-Aap ye GitHub aur Streamlit ka step complete kijiye, aur jaise hi aapka live website link ready ho jaye, mujhe batayein! Kya aapne GitHub par repository bana li hai?
